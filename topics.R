@@ -1,0 +1,15 @@
+source("Src/get_topics.R")
+
+jan_topics <- read.csv("Output/1.csv")
+feb_topics <- read.csv("Output/2.csv")
+mar_topics <- read.csv("Output/3.csv")
+apr_topics <- read.csv("Output/4.csv")
+may_topics <- read.csv("Output/5.csv")
+jun_topics <- read.csv("Output/6.csv")
+jul_topics <- read.csv("Output/7.csv")
+aug_topics <- read.csv("Output/8.csv")
+sep_topics <- read.csv("Output/9.csv")
+oct_topics <- read.csv("Output/10.csv")
+nov_topics <- read.csv("Output/11.csv")
+dec_topics <- read.csv("Output/12.csv")
+
